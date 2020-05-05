@@ -14,8 +14,11 @@ Conceptos tratados en esta práctica:
 - Preprocesado de datos: Uso de expresiones regulares, conversión a minúsculas, eliminación de signos de puntuación, Lemmas,
 Stopword
 - Modelos para Sentiment Analysis con algoritmos de Machine Learning. Pipeline para selección de los mejores parámetros
+
       - Naive Bayes
+      
       - SVM - Support Vector Machines
+      
 - Modelos para Sentiment Analysis con algoritmos de DeepLearning. Word Embeddings
 
       - Preprocesado: Tokenizado y vocabulario
