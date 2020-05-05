@@ -41,3 +41,19 @@ Stopword
       - Visualización del modelo - pyLDAvis
       
 - Language Modeling con arquitectura RNN
+
+## Enunciado
+
+1.- Machine Learning vs Deep Learning 
+
+1.1. Implementación de un modelo de Sentiment Analysis con algún algoritmo de Machine Learning Clásico.
+
+1.2. Implementación de un modelo de Sentiment Analysis con alguna arquitectura de Deep Learning.
+
+1.3. Breve Comparación de resultados. Confusion Matrix.
+
+2.- Hacer Analysis de los tweets del segundo dataset. Que temas aparecen? ¿Como se representan estos temas? ¿De que hablan unos y otros?
+
+3.- Escoged a uno de los dos presidentes, y escribid tweets como ellos, usando un Modelo Generativo.
+
+
