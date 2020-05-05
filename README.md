@@ -6,13 +6,25 @@ En este práctica se implentan y comparan varios modelos de Sentiment Analysis u
 arquitecturas Deep Learning. Además se utiliza la técnica Topic Modeling para el análisis de Tweets y la técnica Language 
 Modeling para la generación de Tweets. 
 
-
-utilizan y comparan distintas **redes neuronales** sobre datos numércios para ser capaces de predecir el precio de
-viviendas de Airbnb. Así mismo se trabaja con redes neuronales **convolucionales** para el tratamiento de imágenes y finalmente
-se combinan datos numéricos e imágenes para predecir el precio de viviendas Airbnb. El código está desarrollado en Python.
-
-Estas técnicas se utilizan tanto para resolver un problema de regresión como de clasificación
+El código está desarrollado en Python.
 
 Conceptos tratados en esta práctica:
 
-- Librerías **numpy**, **pandas**, **Sklearn** y **Keras** de Python 
+- Librerías **numpy**, **pandas**, **re**, **spacy**, **Sklearn**, **Keras**, **gensim**, **pyLDAvis** de Python 
+- Preprocesado de datos: Uso de expresiones regulares, conversión a minúsculas, eliminación de signos de puntuación, Lemmas,
+Stopword
+- Modelos para Sentiment Analysis con algoritmos de Machine Learning. Pipeline para selección de los mejores parámetros
+      - Naive Bayes
+      - SVM - Support Vector Machines
+- Modelos para Sentiment Analysis con algoritmos de DeepLearning. Word Embeddings
+      - Preprocesado: Tokenizado y vocabulario
+      - Padding
+      - Modelo Deep Averaging Networks - DAN
+      - Modelo Convolutional Neural Networks para Texto - CNN
+      - Modelo Recurrent Neural Network para texto - RNN
+      - Modelo BiLSTM
+      - Modelo BiLSTM con vectores pre-entrenados de Glove para la capa embeddings
+- Topic Modeling
+      - Algoritmo Latent Dirichlet Allocation - LDA
+      - Visualización del modelo - pyLDAvis
+- Language Modeling con arquitectura RNN
