@@ -17,14 +17,24 @@ Stopword
       - Naive Bayes
       - SVM - Support Vector Machines
 - Modelos para Sentiment Analysis con algoritmos de DeepLearning. Word Embeddings
+
       - Preprocesado: Tokenizado y vocabulario
+      
       - Padding
+      
       - Modelo Deep Averaging Networks - DAN
+      
       - Modelo Convolutional Neural Networks para Texto - CNN
+      
       - Modelo Recurrent Neural Network para texto - RNN
+      
       - Modelo BiLSTM
+      
       - Modelo BiLSTM con vectores pre-entrenados de Glove para la capa embeddings
 - Topic Modeling
+
       - Algoritmo Latent Dirichlet Allocation - LDA
+      
       - Visualización del modelo - pyLDAvis
+      
 - Language Modeling con arquitectura RNN
