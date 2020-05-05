@@ -56,4 +56,8 @@ Stopword
 
 3.- Escoged a uno de los dos presidentes, y escribid tweets como ellos, usando un Modelo Generativo.
 
+## Conjunto de datos
+
+Para el primer ejercicio se utiliza el dataset **"train_sentiment.csv"** y para los ejercicios 2 y 3 se utiliza el datset **"dataset_2.json"**. Ambos están en la carpeta **data** de este repositorio
+
 
