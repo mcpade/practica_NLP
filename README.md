@@ -2,7 +2,7 @@
 
 # NLP
 
-En este práctica se implentan y comparan varios modelos de Sentiment Analysis utilizando algoritmos de Machine Learning y 
+En este práctica se implementan y comparan varios modelos de Sentiment Analysis utilizando algoritmos de Machine Learning y 
 arquitecturas Deep Learning. Además se utiliza la técnica Topic Modeling para el análisis de Tweets y la técnica Language 
 Modeling para la generación de Tweets. 
 
