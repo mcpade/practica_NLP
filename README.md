@@ -2,24 +2,24 @@
 
 # NLP
 
-En este práctica se implementan y comparan varios modelos de Sentiment Analysis utilizando algoritmos de Machine Learning y 
-arquitecturas Deep Learning. Además se utiliza la técnica Topic Modeling para el análisis de Tweets y la técnica Language 
-Modeling para la generación de Tweets. 
+In this practice, several Sentiment Analysis models are implemented and compared using Machine Learning algorithms and
+Deep Learning architectures. In addition, the Topic Modeling technique is used for the analysis of Tweets and the Language technique
+Modeling for the generation of Tweets.
 
-El código está desarrollado en Python.
+The code is developed in Python.
 
-Conceptos tratados en esta práctica:
+Concepts covered in this practice:
 
-- Librerías **numpy**, **pandas**, **re**, **spacy**, **Sklearn**, **Keras**, **gensim**, **pyLDAvis** de Python 
-- Preprocesado de datos: Uso de expresiones regulares, conversión a minúsculas, eliminación de signos de puntuación, Lemmas,
+- Libraries **numpy**, **pandas**, **re**, **spacy**, **Sklearn**, **Keras**, **gensim**, **pyLDAvis** by Python
+- Data preprocessing: Use of regular expressions, lowercase conversion, removal of punctuation marks, Lemmas,
 Stopword
-- Modelos para Sentiment Analysis con algoritmos de Machine Learning. Pipeline para selección de los mejores parámetros
+- Models for Sentiment Analysis with Machine Learning algorithms. Pipeline for selection of the best parameters
 
       - Naive Bayes
       
       - SVM - Support Vector Machines
       
-- Modelos para Sentiment Analysis con algoritmos de DeepLearning. Word Embeddings
+- Models for Sentiment Analysis with DeepLearning algorithms. Word Embeddings
 
       - Preprocesado: Tokenizado y vocabulario
       
@@ -40,24 +40,24 @@ Stopword
       
       - Visualización del modelo - pyLDAvis
       
-- Language Modeling con arquitectura RNN
+- Language Modeling with RNN architecture
 
-## Enunciado
+## Statement
 
-1.- Machine Learning vs Deep Learning 
+1.- Machine Learning vs Deep Learning
 
-1.1. Implementación de un modelo de Sentiment Analysis con algún algoritmo de Machine Learning Clásico.
+1.1. Implementation of a Sentiment Analysis model with some Classic Machine Learning algorithm.
 
-1.2. Implementación de un modelo de Sentiment Analysis con alguna arquitectura de Deep Learning.
+1.2. Implementation of a Sentiment Analysis model with some Deep Learning architecture.
 
-1.3. Breve Comparación de resultados. Confusion Matrix.
+1.3. Brief comparison of results. Confusion Matrix.
 
-2.- Hacer Analysis de los tweets del segundo dataset. Que temas aparecen? ¿Como se representan estos temas? ¿De que hablan unos y otros?
+2.- Make Analysis of the tweets of the second dataset. What topics appear? How are these themes represented? What do they talk about?
 
-3.- Escoged a uno de los dos presidentes, y escribid tweets como ellos, usando un Modelo Generativo.
+3.- Choose one of the two presidents, and write tweets like them, using a Generative Model.
 
-## Conjunto de datos
+## Data set
 
-Para el primer ejercicio se utiliza el dataset **"train_sentiment.csv"** y para los ejercicios 2 y 3 se utiliza el datset **"dataset_2.json"**. Ambos están en la carpeta **data** de este repositorio
+For the first exercise the dataset **"train_sentiment.csv"** is used and for exercises 2 and 3 the datset **"dataset_2.json"** is used. Both are in the **data** folder of this repository
 
 
